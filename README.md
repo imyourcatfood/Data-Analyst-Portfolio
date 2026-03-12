@@ -1,12 +1,23 @@
 # Data Analyst Portfolio - Seowon Choi
 
 ## 👋 About Me
+안녕하세요. 데이터 분석가 최서원입니다. 이화여자대학교 수학교육과를 졸업했으며, 이전에는 약 4년간 에듀테크 업계에서 수학 콘텐츠 매니저로 근무했습니다.
+
+교육 도메인에서 콘텐츠 메타데이터를 설계하고 구조화된 학습맵을 구축하여, AI 기반 서비스가 교육 콘텐츠 데이터를 효과적으로 활용할 수 있도록 정리하고 구조화하는 작업을 수행했습니다.
+
+현재는 데이터를 통계적·비즈니스적 관점에서 분석하며, 데이터 추출과 전처리부터 시각화, 인사이트 도출까지의 전 과정을 다루고 있습니다. 특히 분석 결과를 실제 의사결정에 활용할 수 있는 형태로 해석하고 정리하는 데 관심이 있습니다.
+
+<details>
+<summary>English</summary>
+  
 Hello, I'm Seowon Choi, a data analyst.
 I graduated from Ewha Womans University with a degree in Mathematics Education and previously worked in the EdTech industry for about four years as a math content manager.
 
 In the education domain, I designed content metadata and developed structured learning maps to organize educational content in a way that AI-based services could effectively utilize the data.
 
 Now I focus on analyzing data from both statistical and business perspectives, covering the full process from data extraction and preprocessing to visualization and insight generation. I’m particularly interested in translating analytical results into insights that support practical decision-making.
+
+</details>
 
 ## 🛠 Skills
 Data Analysis - SQL | Python | Excel | Google Sheets
