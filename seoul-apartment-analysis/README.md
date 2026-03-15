@@ -60,5 +60,5 @@
 ## 📁 산출물
 | 파일 | 설명 |
 |------|------|
-| `6조_태블로프로젝트.twbx` | Tableau 대시보드 파일 |
+| [🔗 Tableau Public 대시보드](https://public.tableau.com/shared/49FNJ24TN?:display_count=n&:origin=viz_share_link) | 인터랙티브 대시보드 |
 | `Seoul_APT_ppt.pdf` | 최종 발표 자료 |
