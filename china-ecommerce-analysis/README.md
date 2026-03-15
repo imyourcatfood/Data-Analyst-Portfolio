@@ -80,5 +80,5 @@
 ## 📁 산출물
 | 파일 | 설명 |
 |------|------|
-| `analysis.ipynb` | EDA 및 시각화 전 과정 |
-| `C-commerce_ppt.pdf` | 최종 발표 자료 |
+| [📓 ccommerce_analysis_clean.ipynb](ccommerce_analysis_clean.ipynb) | EDA 및 시각화 전 과정 (YouTube 스크래핑 · 수출입 단가 · 백화점 비교 포함) |
+| [📊 C-commerce_ppt.pdf](C-commerce_ppt.pdf) | 최종 발표 자료 |

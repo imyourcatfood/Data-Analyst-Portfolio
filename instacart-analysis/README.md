@@ -94,5 +94,5 @@ Walmart, Uber Eats, DoorDash 등 경쟁 플랫폼의 증가로 고객 이탈 위
 ## 📁 산출물
 | 파일 | 설명 |
 |------|------|
-| `analysis.ipynb` | EDA 및 시각화 전 과정 |
-| `Instacart_ppt.pdf` | 최종 발표 자료 |
+| [📓 analysis.ipynb](analysis.ipynb) | EDA 및 시각화 전 과정 |
+| [📊 Instacart_ppt.pdf](Instacart_ppt.pdf) | 최종 발표 자료 |

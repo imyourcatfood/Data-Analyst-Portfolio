@@ -62,4 +62,3 @@
 | 파일 | 설명 |
 |------|------|
 | [🔗 Tableau Public 대시보드](https://public.tableau.com/shared/49FNJ24TN?:display_count=n&:origin=viz_share_link) | 인터랙티브 대시보드 |
-| `Seoul_APT_ppt.pdf` | 최종 발표 자료 |
