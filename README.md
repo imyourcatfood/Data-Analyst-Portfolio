@@ -12,7 +12,7 @@
 ## Skills
 - Data Analysis: SQL, Python, Excel, Google Sheets
 - Data Visualization: Tableau, Looker Studio
-- Productivity: Notion, Slack, Generative AI
+- Productivity: Notion, Slack, Claude Code, Gemini API
 
 ## Projects
 | Project | Summary | Status |
