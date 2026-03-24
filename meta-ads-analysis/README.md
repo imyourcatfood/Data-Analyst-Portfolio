@@ -6,7 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-📅 2025.02.23 ~ 2025.03.18 | 팀 프로젝트 (3인)
+📅 2026.02.23 ~ 2026.03.18 | 팀 프로젝트 (3인)
 
 ---
 
